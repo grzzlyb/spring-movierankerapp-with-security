@@ -1,2 +1,3 @@
-# spring-movierankerapp-with-security
-A CRUD Style Spring App that allows you to View, Add, Edit, Delete and Rank movies by Rating; Added security support with Spring Security
+# Spring MVC Movie Ranker App With Security
+
+Prior to the WebApp that was published earlier, this is a further version of the app that has been enhanced with security features including login support using Spring Security
